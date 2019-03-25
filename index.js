@@ -3,7 +3,7 @@
 const EXPIRATION_WINDOW_IN_SECONDS = 300;
 
 const tado_auth_url = 'https://auth.tado.com';
-const tado_url = 'https://my.tado.com';
+const tado_url = 'https://auth.tado.com';
 const oauth_path = '/oauth/token';
 const tado_config = {
     client: {
